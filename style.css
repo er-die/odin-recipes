@@ -1,15 +1,41 @@
 body {
-    color: white;
-    background-color: rgb(243, 229, 171);
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(000,146,070);
+    font-family: cursive;
+    color: rgb(241,242,2419);
 }
 
-h1 {
-    color: white;
+div.title {
+    background-color: rgb(206,043,055);
+    padding-left: 75px;
+    margin-top: 0;
     text-align: center;
 }
 
-p {
-    background-color: black;
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+div.possibilities {
+    text-align: center;
     
+}
+
+ul.buttons {
+    display: inline;
+}
+
+li.meals{
+    display: inline;
+    margin-right: 50px;
+
+
+}
+
+li.aboutme {
+    display: inline;
+    margin-left: 50px;
 }

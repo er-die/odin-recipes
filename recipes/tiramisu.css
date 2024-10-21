@@ -37,6 +37,10 @@ div.ingredients{
     font-size: 20px;
 }
 
+.ingredients li{
+    padding: 15px;
+}
+
 h4 {
     text-align: center;
     font-size: 40px;
@@ -45,6 +49,10 @@ h4 {
 div.steps {
     padding: 50px;
     font-size: 20px;
+}
+
+.steps li{
+    padding: 15px;
 }
 
 p {

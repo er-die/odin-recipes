@@ -1,11 +1,28 @@
 body {
-    background-color: black;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(000,146,070);
+    color: rgb(241,242,2419);
+    font-family: cursive;
+}
+
+div.title {
+    background-color: rgb(206,043,055);
+    padding-left: 75px;
+    margin-top: 0;
+    text-align: center;
 }
 
 h1 {
+    font-size: 50px;
+}
+
+h4.descimg {
+    padding: 50px;
+}
+
+div.description{
     text-align: center;
+    padding: 50px;
+    font-size: 20px;
 }
 
 .purtol {
@@ -15,8 +32,19 @@ h1 {
     width: 50%;
 }
 
+div.ingredients{
+    padding: 50px;
+    font-size: 20px;
+}
+
 h4 {
     text-align: center;
+    font-size: 40px;
+}
+
+div.steps {
+    padding: 50px;
+    font-size: 20px;
 }
 
 p {
